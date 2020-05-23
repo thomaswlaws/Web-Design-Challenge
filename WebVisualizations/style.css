@@ -1,0 +1,38 @@
+/*Body*/
+
+.body{
+    background-color: #EDEDED; 
+}
+/*Navbar*/
+.navbar{
+    max-height: 50px; 
+	background-color: #cacccb; 
+    font-size: 15px; 
+	padding: 2.5% 0; 
+}
+
+.navigation .navbar-brand{
+	color: white; 
+	margin-left: 50px; 
+	padding: inherit; 
+	font-weight: bold; 
+	background-color: #38ab87;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.dropdown-item{
+    color: #eff7f6; 
+}
+
+.dropdown-menu .dropdown-item:hover, .dropdown-menu .dropdown-item:active{
+    background-color:#adc7c4; 
+}
+
+.nav-link:hover{
+    background-color:#adc7c4;
+}
+
+
+
+
+© 2020 GitHub, Inc.
